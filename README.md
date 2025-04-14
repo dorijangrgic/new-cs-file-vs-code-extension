@@ -16,12 +16,6 @@ Easily create new C# class, interface, record, struct, or enum files with modern
 
 ---
 
-## 📸 Demo
-
-![demo](demo.gif) <!-- You can replace with your own GIF or screenshot -->
-
----
-
 ## 📦 Installation
 
 From the VS Code Marketplace:
